@@ -1,4 +1,7 @@
 # marchingSquares
+
+<img src="ms_demo.png" alt="Demo">
+
 Extract isolines from heightmaps (grayscale images)
 
 <img src="ms_demo.png" alt="Demo">
