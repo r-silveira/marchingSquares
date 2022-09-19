@@ -1,4 +1,4 @@
-# marchingSquares
+# Marching Squares
 
 Extract isolines from heightmaps (grayscale images)
 
